@@ -15,4 +15,4 @@
 Danach führt dich dein Assistent durch ein kurzes Interview (etwa zehn Minuten). Zum Schluss
 tippst du **/morgen** — und er plant mit dir den Tag.
 
-Hilfe und Austausch: in der Gruppe (Link in deiner Anleitung).
+Mehr auf headquarter.academy.
