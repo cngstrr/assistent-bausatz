@@ -66,7 +66,7 @@ Dann sag:
 
 „Probier es gleich aus: Tippe **/morgen** — dann planen wir deinen Tag."
 
-Und zum Schluss, in einer eigenen Zeile:
+Und in einer eigenen Zeile:
 
-„Wenn alles läuft: Schreib **‚läuft'** in die Gruppe — der Link steht in deiner Anleitung. Dort
-bekommst du auch Hilfe, falls etwas hakt."
+„Kennt Claude den Befehl noch nicht? Dann einmal neu starten: **/exit** tippen, dann **claude**,
+dann **/morgen**. Das ist nur beim ersten Mal nötig."
