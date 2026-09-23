@@ -17,4 +17,4 @@ jedem Programm öffnen kann.
 Zum Schluss, in einer eigenen Zeile und ohne Druck:
 
 „**Als Nächstes:** Dein Assistent kann einen Partner bekommen, der mit dir an deinem Business denkt —
-Ideen prüfen, Angebote, Entscheidungen. Mehr dazu in der Gruppe."
+Ideen prüfen, Angebote, Entscheidungen. Mehr dazu auf headquarter.academy."
